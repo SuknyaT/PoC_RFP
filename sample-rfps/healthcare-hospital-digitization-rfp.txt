@@ -1,0 +1,93 @@
+REQUEST FOR PROPOSAL (RFP)
+Hospital Digital Transformation & Patient Information System
+
+Issued By: Apollo Hospitals Enterprise Limited
+RFP Reference: AHEL/IT/2026/042
+Issue Date: March 10, 2026
+Submission Deadline: May 20, 2026
+
+1. INTRODUCTION
+Apollo Hospitals Enterprise Limited invites proposals from qualified technology and healthcare IT companies for a comprehensive digital transformation initiative across 15 Apollo hospital facilities in South India. The project encompasses patient information display systems, digital wayfinding, telemedicine infrastructure, and health-awareness advertising networks.
+
+2. PROJECT SCOPE
+The selected vendor will be responsible for:
+- Design, installation, and management of 800+ digital display screens across 15 hospitals
+- Patient information display systems (queue management, doctor availability, lab results)
+- Digital wayfinding kiosks with multilingual support (English, Hindi, Tamil, Telugu, Kannada)
+- Telemedicine consultation room setup (50 rooms across facilities)
+- Health-awareness and pharmaceutical advertising network
+- Integration with existing Hospital Information System (HIS) and Electronic Medical Records (EMR)
+- Mobile app integration for patient engagement
+- Data analytics dashboard for hospital administrators
+
+3. FACILITY STATISTICS
+- Total Hospitals: 15 facilities across Tamil Nadu, Karnataka, Andhra Pradesh, and Telangana
+- Annual Patient Footfall: 8.5 million OPD visits, 450,000 IPD admissions
+- Daily Visitors (average): 25,000 across all facilities
+- Staff Count: 12,000+ healthcare professionals
+- Existing IT Infrastructure: Centralized HIS (Oracle-based), Wi-Fi 6 across all facilities
+
+4. CONTRACT DETAILS
+- Contract Duration: 5 years with 3-year extension option
+- Estimated Project Value: INR 85 Crores ($10.2 million USD)
+- Implementation Timeline: Phase 1 (6 hospitals) within 8 months, Phase 2 (remaining 9) within 18 months
+- Location: South India (Chennai HQ)
+- Commencement Date: August 1, 2026
+
+5. REVENUE MODEL REQUIREMENTS
+Bidders must submit a commercial proposal that includes:
+a) Fixed Implementation Cost: One-time setup and installation charges
+b) Annual Maintenance Contract (AMC): Ongoing support and maintenance fees
+c) Revenue Share from Advertising: Percentage of advertising revenue shared with Apollo
+d) SLA-linked Payment: Performance-based payment linked to uptime and service levels
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Technical Solution (30 points)
+- System architecture and scalability: 10 points
+- Integration capability with existing HIS/EMR: 10 points
+- UI/UX design and patient experience: 5 points
+- Cybersecurity and data privacy (HIPAA/DISHA compliance): 5 points
+
+6.2 Financial Proposal (25 points)
+- Total cost of ownership (5-year): 15 points
+- Revenue share model: 10 points
+
+6.3 Experience & Track Record (20 points)
+- Healthcare IT project experience: 10 points
+- Number of hospital deployments: 5 points
+- Client references from healthcare sector: 5 points
+
+6.4 Implementation Plan (15 points)
+- Project timeline and milestones: 8 points
+- Change management and training plan: 4 points
+- Risk mitigation strategy: 3 points
+
+6.5 Support & Maintenance (10 points)
+- SLA commitments (99.9% uptime): 5 points
+- Response time guarantees: 3 points
+- Dedicated support team: 2 points
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 5 years experience in healthcare IT solutions
+- Annual turnover of at least INR 25 Crores in each of the last 3 financial years
+- ISO 27001 certified
+- Experience with at least 3 hospital digital transformation projects
+- HIPAA or equivalent healthcare data compliance certification
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with solution architecture diagrams
+- Financial Proposal with detailed cost breakdown
+- Proof of healthcare IT certifications
+- Case studies from minimum 3 similar deployments
+- Team composition with relevant healthcare IT experience
+- Data security and compliance documentation
+
+9. CONTACT INFORMATION
+Digital Transformation Office
+Apollo Hospitals Enterprise Limited
+No. 19, Bishop Jardine Street, Nungambakkam
+Chennai - 600034, Tamil Nadu, India
+Email: digital.procurement@apollohospitals.com

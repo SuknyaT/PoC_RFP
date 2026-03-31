@@ -1,0 +1,193 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String     @id @default(uuid())
+  email        String     @unique
+  passwordHash String     @map("password_hash")
+  name         String
+  role         String     @default("analyst")
+  createdAt    DateTime   @default(now()) @map("created_at")
+  rfps         Rfp[]
+  proposals    Proposal[]
+
+  @@map("users")
+}
+
+model Rfp {
+  id                 String            @id @default(uuid())
+  title              String
+  clientName         String?           @map("client_name")
+  industry           String?
+  status             String            @default("draft")
+  projectScope       String?           @map("project_scope")
+  submissionDeadline DateTime?         @map("submission_deadline")
+  contractDuration   String?           @map("contract_duration")
+  estimatedValue     Decimal?          @map("estimated_value") @db.Decimal(15, 2)
+  location           String?
+  originalFilename   String?           @map("original_filename")
+  filePath           String?           @map("file_path")
+  rawText            String?           @map("raw_text")
+  createdBy          String?           @map("created_by")
+  createdAt          DateTime          @default(now()) @map("created_at")
+  updatedAt          DateTime          @updatedAt @map("updated_at")
+
+  user               User?             @relation(fields: [createdBy], references: [id])
+  scoringCriteria    ScoringCriteria[]
+  proposals          Proposal[]
+  rfpCompetitors     RfpCompetitor[]
+  requirements       RfpRequirement[]
+
+  @@map("rfps")
+}
+
+model RfpRequirement {
+  id          String   @id @default(uuid())
+  rfpId       String   @map("rfp_id")
+  requirement String
+  category    String?
+  priority    String   @default("medium")
+  status      String   @default("pending")
+  notes       String?
+  sortOrder   Int      @default(0) @map("sort_order")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  rfp         Rfp      @relation(fields: [rfpId], references: [id], onDelete: Cascade)
+
+  @@map("rfp_requirements")
+}
+
+model ScoringCriteria {
+  id            String  @id @default(uuid())
+  rfpId         String  @map("rfp_id")
+  criterionName String  @map("criterion_name")
+  maxPoints     Int?    @map("max_points")
+  weightPct     Decimal? @map("weight_pct") @db.Decimal(5, 2)
+  description   String?
+  aiStrategy    String? @map("ai_strategy")
+  sortOrder     Int     @default(0) @map("sort_order")
+
+  rfp           Rfp     @relation(fields: [rfpId], references: [id], onDelete: Cascade)
+
+  @@map("scoring_criteria")
+}
+
+model Competitor {
+  id              String          @id @default(uuid())
+  name            String
+  industries      String[]
+  strengths       String?
+  weaknesses      String?
+  typicalBidStyle String?         @map("typical_bid_style")
+  notes           String?
+  createdAt       DateTime        @default(now()) @map("created_at")
+
+  rfpCompetitors  RfpCompetitor[]
+  historicalBids  HistoricalBid[]
+
+  @@map("competitors")
+}
+
+model HistoricalBid {
+  id               String   @id @default(uuid())
+  rfpTitle         String?  @map("rfp_title")
+  clientName       String?  @map("client_name")
+  industry         String?
+  year             Int?
+  bidderName       String?  @map("bidder_name")
+  isOurBid         Boolean  @default(true) @map("is_our_bid")
+  flatGuarantee    Decimal? @map("flat_guarantee") @db.Decimal(15, 2)
+  profitSharePct   Decimal? @map("profit_share_pct") @db.Decimal(5, 2)
+  otherTerms       Json?    @map("other_terms")
+  outcome          String?
+  winningBidSummary String? @map("winning_bid_summary")
+  scoreReceived    Decimal? @map("score_received") @db.Decimal(5, 2)
+  lessonsLearned   String?  @map("lessons_learned")
+  competitorId     String?  @map("competitor_id")
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  competitor       Competitor? @relation(fields: [competitorId], references: [id])
+
+  @@map("historical_bids")
+}
+
+model RfpCompetitor {
+  id               String      @id @default(uuid())
+  rfpId            String      @map("rfp_id")
+  competitorId     String      @map("competitor_id")
+  expectedStrategy String?     @map("expected_strategy")
+  threatLevel      String?     @map("threat_level")
+
+  rfp              Rfp         @relation(fields: [rfpId], references: [id], onDelete: Cascade)
+  competitor       Competitor  @relation(fields: [competitorId], references: [id])
+
+  @@map("rfp_competitors")
+}
+
+model CompanyProfile {
+  id                String   @id @default(uuid())
+  companyName       String   @map("company_name")
+  tagline           String?
+  foundedYear       Int?     @map("founded_year")
+  headquarters      String?
+  employeeCount     Int?     @map("employee_count")
+  annualRevenue     String?  @map("annual_revenue")
+  industries        String[]
+  certifications    String[]
+  awards            String[]
+  keyClients        String[] @map("key_clients")
+  officeLocations   String[] @map("office_locations")
+  safetyRecord      String?  @map("safety_record")
+  insuranceCoverage String?  @map("insurance_coverage")
+  keyMetrics        Json?    @map("key_metrics")
+  slaDefaults       Json?    @map("sla_defaults")
+  differentiators   Json?
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+
+  @@map("company_profiles")
+}
+
+model Proposal {
+  id                       String   @id @default(uuid())
+  rfpId                    String   @map("rfp_id")
+  version                  Int      @default(1)
+  status                   String   @default("draft")
+  recommendedFlatGuarantee Decimal? @map("recommended_flat_guarantee") @db.Decimal(15, 2)
+  recommendedProfitShare   Decimal? @map("recommended_profit_share") @db.Decimal(5, 2)
+  annualEscalationPct      Decimal? @map("annual_escalation_pct") @db.Decimal(5, 2)
+  revenueModelRationale    String?  @map("revenue_model_rationale")
+  executiveSummary         String?  @map("executive_summary")
+  companyOverview          String?  @map("company_overview")
+  experienceSection        String?  @map("experience_section")
+  approachSection          String?  @map("approach_section")
+  projectTimeline          String?  @map("project_timeline")
+  teamStructure            String?  @map("team_structure")
+  revenueProposal          String?  @map("revenue_proposal")
+  costOverview             String?  @map("cost_overview")
+  riskMitigation           String?  @map("risk_mitigation")
+  valueProposition         String?  @map("value_proposition")
+  complianceStatement      String?  @map("compliance_statement")
+  competitiveAdvantages    String?  @map("competitive_advantages")
+  termsAndConditions       String?  @map("terms_and_conditions")
+  yearWiseProjections      Json?    @map("year_wise_projections")
+  scoringBreakdown         Json?    @map("scoring_breakdown")
+  fullContent              Json?    @map("full_content")
+  predictedScore           Decimal? @map("predicted_score") @db.Decimal(5, 2)
+  optimizationNotes        String?  @map("optimization_notes")
+  createdBy                String?  @map("created_by")
+  createdAt                DateTime @default(now()) @map("created_at")
+  updatedAt                DateTime @updatedAt @map("updated_at")
+
+  rfp                      Rfp      @relation(fields: [rfpId], references: [id], onDelete: Cascade)
+  user                     User?    @relation(fields: [createdBy], references: [id])
+
+  @@map("proposals")
+}

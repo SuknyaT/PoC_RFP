@@ -1,0 +1,208 @@
+REQUEST FOR PROPOSAL (RFP)
+Supply, Installation, and Commissioning of Electrostatic Precipitator (ESP) for Sinter Plant - Waste Gas Cleaning System
+
+Issued By: JSW Steel Limited - Vijayanagar Works
+RFP Reference: JSW/VNG/ESP/2026/047
+Issue Date: March 15, 2026
+Submission Deadline: May 30, 2026
+
+1. INTRODUCTION
+JSW Steel Limited, India's leading steel manufacturer, invites proposals from qualified Original Equipment Manufacturers (OEMs) and EPC contractors for the design, engineering, supply, installation, commissioning, and performance guarantee of a Head End Electrostatic Precipitator (ESP) for the Sinter Plant waste gas cleaning system at its Vijayanagar Integrated Steel Works, Bellary, Karnataka.
+
+This project is mandated under the Ministry of Environment, Forest and Climate Change (MoEFCC) revised emission norms for the iron and steel sector (2024 notification), which require particulate matter emissions below 30 mg/Nm³ from all sinter plant operations by December 2027.
+
+2. PROJECT SCOPE
+
+2.1 Core ESP System
+The selected vendor shall be responsible for:
+- Design and engineering of Head End ESP for Sinter Plant waste gas cleaning
+- Gas Volume Handling Capacity: 13,50,000 m³/hr (minimum)
+- Inlet Dust Load: Up to 2 g/Nm³ (with peak loads up to 5 g/Nm³ during upset conditions)
+- Guaranteed Outlet Emission: < 30 mg/Nm³ (as per CPCB norms)
+- Collection Efficiency: ≥ 98.5%
+- ESP Configuration: Minimum 4 fields, weighted wire-plate type
+- Operating Temperature Range: 80°C to 200°C
+- Gas Composition: SOx, NOx, CO, HCl, HF, heavy metals, dioxins/furans in trace quantities
+- Pressure Drop: ≤ 250 Pa across ESP
+
+2.2 Mechanical Scope
+- ESP casing with thermal insulation (80mm mineral wool)
+- Collecting plates (cold-rolled steel, minimum 1.2mm thickness)
+- Discharge electrodes (rigid frame type preferred)
+- Rapping mechanism (tumbling hammer for collecting plates, magnetic impulse for discharge electrodes)
+- Hoppers with heating arrangements and level indicators
+- Ash handling and conveying system (chain conveyor + pneumatic transport)
+- Inlet and outlet ductwork modifications (from existing sinter machine to ESP and from ESP to existing ID fans)
+- Stack modifications if required
+- Support structure and civil foundation design
+
+2.3 Electrical & Instrumentation
+- Transformer-Rectifier (TR) sets: High-frequency switch-mode power supply (SMPS) type preferred
+- Automatic Voltage Controllers (AVC) with microprocessor-based control
+- ESP performance monitoring system (opacity meter, gas flow, temperature, pressure)
+- Continuous Emission Monitoring System (CEMS) - CPCB approved
+- Integration with existing plant DCS (Siemens PCS7)
+- Motor Control Center (MCC) and Power Distribution
+- PLC-based ESP control system with HMI
+
+2.4 Civil Works
+- Foundation for ESP structure (RCC raft/pile foundation as per soil investigation)
+- Equipment foundation for TR sets, control room, ash handling
+- Cable trenches and pipe racks
+- Control room building (approx. 80 sqm)
+
+2.5 Commissioning & Performance
+- Cold and hot commissioning
+- Performance Guarantee Test (PGT) as per IS 10000 / equivalent international standard
+- 72-hour continuous performance run
+- Stack emission testing by NABL accredited laboratory
+- Training for plant O&M staff (minimum 40 hours)
+
+3. PLANT DETAILS & OPERATING CONDITIONS
+
+3.1 Sinter Plant Specifications
+- Sinter Machine: 312 m² effective sintering area
+- Production Capacity: 5.5 MTPA sinter
+- Operating Hours: 8,000 hours/year (continuous operation)
+- Existing Pollution Control: Multi-cyclone (primary) - to be retained as pre-collector
+- Existing ID Fan Capacity: 2 x 7,500 kW (sufficient for additional ESP pressure drop)
+
+3.2 Site Conditions
+- Location: Vijayanagar Works, Toranagallu, Bellary District, Karnataka
+- Ambient Temperature: 15°C to 45°C
+- Relative Humidity: 20% to 95%
+- Seismic Zone: III (IS 1893)
+- Rainfall: 600 mm/year
+- Wind Speed: 150 km/h (design)
+- Soil Bearing Capacity: 15 T/m² (preliminary - detailed soil investigation by vendor)
+
+3.3 Utility Availability
+- Power Supply: 33 kV (vendor to provide step-down transformers)
+- Instrument Air: 6 bar, dry and oil-free
+- Cooling Water: Available from plant circuit
+- Compressed Air: 7 bar at ESP battery limit
+
+4. CONTRACT DETAILS
+- Contract Type: Lump Sum Turnkey (LSTK)
+- Contract Duration: 18 months (from LOA to mechanical completion) + 6 months commissioning
+- Performance Guarantee Period: 24 months from successful PGT
+- Defect Liability Period: 36 months from mechanical completion
+- Estimated Project Value: INR 250-350 Crores ($30-42 million USD)
+- Liquidated Damages: 0.5% per week of delay, capped at 10% of contract value
+- Retention: 10% of contract value (released after DLP)
+- Advance Payment: Up to 15% against Bank Guarantee
+
+5. COMMERCIAL MODEL
+Bidders must submit:
+a) Lump Sum Turnkey Price: Complete scope including design, supply, erection, commissioning
+b) Price Breakdown:
+   - Equipment supply (ex-works)
+   - Freight and insurance
+   - Civil works
+   - Erection and commissioning
+   - Electrical and instrumentation
+   - Spare parts (2-year recommended spares)
+   - Training
+c) Annual Maintenance Contract (AMC): Optional quote for 5-year post-warranty O&M support
+d) Energy Consumption Guarantee: Annual power consumption of ESP system in kWh/year
+e) Payment Terms: Milestone-linked payment schedule
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Technical Proposal (60 points)
+- ESP Design & Engineering (20 points)
+  * Gas distribution quality (CFD simulation results): 5 points
+  * Collection efficiency guarantee and margin: 5 points
+  * Electrode design and rapping effectiveness: 5 points
+  * Power supply technology (SMPS preference): 5 points
+
+- Equipment Quality & Specifications (15 points)
+  * Material specifications and thickness: 5 points
+  * TR set / power supply specifications: 5 points
+  * CEMS and monitoring systems: 5 points
+
+- Project Execution Plan (15 points)
+  * Detailed construction schedule (PERT/CPM): 5 points
+  * Resource mobilization plan: 3 points
+  * Quality Assurance / Quality Control plan: 4 points
+  * Safety management plan: 3 points
+
+- Experience & Track Record (10 points)
+  * Number of similar ESPs commissioned in steel/sinter plants: 5 points
+  * Performance data from reference plants: 3 points
+  * Client references and testimonials: 2 points
+
+6.2 Commercial Proposal (40 points)
+- Lump Sum Price: 25 points
+- Energy consumption guarantee: 5 points
+- Delivery schedule: 5 points
+- AMC pricing: 3 points
+- Warranty and guarantee terms: 2 points
+
+Total: 100 points
+Minimum Technical Score for Commercial Opening: 40 out of 60
+
+7. ELIGIBILITY CRITERIA
+- Minimum 10 years of experience in ESP design and manufacturing
+- At least 5 ESP installations of ≥ 10,00,000 m³/hr capacity commissioned in last 10 years
+- At least 2 ESP installations in sinter plants / steel industry
+- Annual turnover of at least INR 500 Crores from pollution control equipment business
+- In-house design and engineering capability (not pure trading/reselling)
+- Proven emission guarantee of < 30 mg/Nm³ on at least 3 reference plants
+- ISO 9001, ISO 14001, ISO 45001 certified manufacturing facility
+- Not blacklisted by any steel company or government organization in India
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal (Envelope 1):
+  * ESP design basis document with calculations
+  * General Arrangement drawings (preliminary)
+  * CFD simulation report for gas distribution
+  * Bill of Materials with specifications
+  * Project execution schedule (bar chart + PERT)
+  * QA/QC plan and Inspection & Test Plan (ITP)
+  * Safety plan
+  * Reference list with contact details of 5 clients
+  * Performance data from minimum 3 similar installations
+  * Manufacturing facility details and capacity
+  * Organization chart with CVs of key personnel
+
+- Commercial Proposal (Envelope 2):
+  * Lump Sum Turnkey Price with detailed breakdown
+  * Payment milestone schedule
+  * Delivery schedule
+  * Commercial terms and deviations
+  * AMC quote (optional)
+  * Spare parts pricing
+
+- Qualification Documents (Envelope 3):
+  * Company registration and incorporation certificates
+  * Audited financial statements (last 5 years)
+  * ISO certificates
+  * EMD of INR 5 Crores (Bank Guarantee / Demand Draft)
+  * Power of Attorney for authorized signatory
+  * Integrity Pact declaration
+
+9. TECHNICAL STANDARDS & CODES
+- IS 7601: 1988 - Electrostatic Precipitators
+- IS 10000 (Parts 1-12): Methods of Testing Performance
+- CPCB Emission Standards for Iron & Steel Sector (2024)
+- IS 1893: Seismic Design
+- IS 800 / IS 875: Structural Steel Design / Loading Standards
+- IS 456: Plain and Reinforced Concrete
+- IEC 61000: Electromagnetic Compatibility
+- ASME/AWS standards for welding
+- IE Rules for electrical installations
+
+10. SITE VISIT
+A mandatory pre-bid site visit is scheduled for April 15, 2026 at 10:00 AM IST at the Sinter Plant, Vijayanagar Works. Interested bidders must confirm participation by April 10, 2026.
+
+11. PRE-BID QUERIES
+Written queries may be submitted by email until April 25, 2026. Responses will be issued as an addendum to all registered bidders.
+
+12. CONTACT INFORMATION
+Chief of Procurement - Capital Projects
+JSW Steel Limited, Vijayanagar Works
+P.O. Toranagallu - 583275
+Bellary District, Karnataka, India
+Email: esp.procurement@jsw.in
+Phone: +91-8395-279000 (Ext: 4521)

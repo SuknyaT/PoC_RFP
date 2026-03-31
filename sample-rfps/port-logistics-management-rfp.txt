@@ -1,0 +1,107 @@
+REQUEST FOR PROPOSAL (RFP)
+Integrated Port Logistics & Container Terminal Management
+
+Issued By: Visakhapatnam Port Authority (VPA)
+RFP Reference: VPA/LOG/2026/008
+Issue Date: March 5, 2026
+Submission Deadline: April 25, 2026
+
+1. INTRODUCTION
+Visakhapatnam Port Authority invites proposals from experienced logistics operators for the integrated management of container terminal operations, warehousing, and multimodal logistics coordination at Visakhapatnam Port, one of India's largest major ports by cargo volume.
+
+2. PROJECT SCOPE
+The selected operator will manage:
+- Container Terminal Operations (Berths 7-12):
+  * 6 berths with total quay length of 1,800 meters
+  * 15 Ship-to-Shore (STS) cranes
+  * 45 Rubber Tyred Gantry (RTG) cranes
+  * Annual capacity: 1.2 million TEUs
+- Warehousing & Container Freight Station (CFS):
+  * 200,000 sq meters of covered warehouse space
+  * 50,000 sq meters of open storage yard
+  * Temperature-controlled storage (10,000 sq meters)
+- Multimodal Connectivity:
+  * Rail-side container handling (3 rail sidings)
+  * Road transport coordination (500+ truck movements/day)
+  * Coastal shipping coordination
+- IT Systems:
+  * Terminal Operating System (TOS) implementation
+  * Port Community System (PCS) integration
+  * Vehicle tracking and queue management
+  * Customs EDI interface
+
+3. PORT STATISTICS
+- Annual Cargo Volume: 75 million metric tonnes (2025)
+- Container Traffic: 850,000 TEUs annually (growing 12% YoY)
+- Vessel Calls: 2,200+ annually
+- Average Turnaround Time: 3.2 days (target: 2.0 days)
+- Hinterland Connectivity: NH-16, East Coast Railway, inland waterway
+- Key Trade Routes: Southeast Asia, Middle East, Europe, East Africa
+
+4. CONTRACT DETAILS
+- Contract Duration: 10 years with 5-year extension option
+- Estimated Annual Revenue: INR 800 Crores ($96 million USD)
+- License Fee Model: Revenue share to VPA
+- Location: Visakhapatnam, Andhra Pradesh, India
+- Commencement Date: October 1, 2026
+
+5. REVENUE MODEL REQUIREMENTS
+Bidders must propose:
+a) Annual License Fee: Fixed fee payable to VPA per annum
+b) Revenue Share: Percentage of gross revenue above the license fee
+c) Cargo Handling Charges: Proposed tariff for container handling (per TEU)
+d) Capital Investment Plan: Bidder's investment in equipment and infrastructure upgrades
+e) Performance Bond: Bank guarantee for operational commitments
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Financial Offer (35 points)
+- Annual license fee amount: 15 points
+- Revenue share percentage: 10 points
+- Capital investment commitment: 10 points
+
+6.2 Operational Capability (25 points)
+- Container handling methodology: 10 points
+- Equipment and technology plan: 8 points
+- Throughput improvement plan: 7 points
+
+6.3 Experience & Track Record (20 points)
+- Port/terminal management experience: 10 points
+- Cargo volume handled in similar projects: 5 points
+- Safety record and compliance history: 5 points
+
+6.4 Technology & Innovation (12 points)
+- TOS and automation plan: 5 points
+- Green port initiatives: 4 points
+- Digital twin and predictive analytics: 3 points
+
+6.5 Human Resource Plan (8 points)
+- Workforce transition plan: 4 points
+- Training and skill development: 2 points
+- Local employment commitment: 2 points
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 7 years of port/terminal management experience
+- Managed at least one port with annual throughput exceeding 500,000 TEUs
+- Annual turnover of at least INR 500 Crores in each of the last 3 financial years
+- Net worth of at least INR 200 Crores
+- No adverse performance record at any Indian major port
+- Valid ISPS Code compliance certification
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with operations plan
+- Financial Proposal with detailed tariff schedule
+- Equipment procurement and deployment plan
+- Environmental impact assessment
+- Safety management plan
+- EMD of INR 10 Crores (Bank Guarantee)
+- Audited financial statements for last 5 years
+
+9. CONTACT INFORMATION
+Office of the Deputy Chairman
+Visakhapatnam Port Authority
+Port Area, Visakhapatnam - 530035
+Andhra Pradesh, India
+Email: procurement@vizagport.gov.in

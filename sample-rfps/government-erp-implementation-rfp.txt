@@ -1,0 +1,108 @@
+REQUEST FOR PROPOSAL (RFP)
+Enterprise Resource Planning (ERP) System Implementation for State Government
+
+Issued By: Department of Information Technology, Government of Maharashtra
+RFP Reference: MAHA-IT/ERP/2026/003
+Issue Date: March 15, 2026
+Submission Deadline: June 1, 2026
+
+1. INTRODUCTION
+The Department of Information Technology, Government of Maharashtra, invites proposals from qualified IT service providers for the implementation of a comprehensive Enterprise Resource Planning (ERP) system across 35 government departments and 200+ district/taluk offices. This initiative is part of the Maharashtra Digital Governance Mission 2030.
+
+2. PROJECT SCOPE
+The selected vendor will implement:
+- Core ERP Modules:
+  * Finance & Accounting (Budget management, treasury, expenditure tracking)
+  * Human Resource Management (Payroll for 850,000+ government employees)
+  * Procurement & Supply Chain (GeM integration, vendor management)
+  * Asset Management (State property, vehicles, equipment tracking)
+  * Project Management (Scheme monitoring, fund utilization tracking)
+- Additional Modules:
+  * Citizen Service Portal with 150+ e-services
+  * Grievance Redressal Management System
+  * Decision Support System with BI dashboards for Chief Secretary and Ministers
+  * Document Management System with e-Office integration
+  * Mobile application for field officers
+- Infrastructure:
+  * Cloud hosting on MeghRaj/GI Cloud or equivalent government cloud
+  * Disaster Recovery setup
+  * Data migration from 15+ legacy systems
+  * Integration with Aadhaar, DigiLocker, PFMS, and other national platforms
+
+3. GOVERNMENT STATISTICS
+- Total Departments: 35 administrative departments
+- District Offices: 36 district collectorates + 200+ sub-offices
+- Government Employees: 850,000+ (target users)
+- Current Systems: 15+ disconnected legacy applications
+- Annual Budget: INR 5,00,000 Crores ($60 billion USD)
+- Annual Procurement Volume: INR 45,000 Crores ($5.4 billion USD)
+
+4. CONTRACT DETAILS
+- Contract Duration: 3 years implementation + 5 years AMC
+- Estimated Project Value: INR 650 Crores ($78 million USD)
+- Funding: Central Government (40%) + State Budget (60%)
+- Location: Mumbai (HQ), with pan-Maharashtra deployment
+- Commencement Date: September 1, 2026
+
+5. COMMERCIAL MODEL
+Bidders must submit a commercial proposal including:
+a) Implementation Cost: Phase-wise deployment cost
+b) License Cost: Perpetual or subscription-based licensing
+c) Annual Maintenance: Post-implementation support cost
+d) Training Cost: Capacity building for 850,000+ users
+e) Data Migration Cost: From legacy systems to new ERP
+f) Cloud Hosting: Annual hosting charges
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Technical Solution (35 points)
+- ERP platform and architecture: 12 points
+- Customization and localization capability: 8 points
+- Integration approach with national platforms: 8 points
+- Data migration strategy: 7 points
+
+6.2 Financial Proposal (25 points)
+- Total cost of ownership (8-year): 15 points
+- Commercial model flexibility: 5 points
+- Value-added services at no extra cost: 5 points
+
+6.3 Implementation Approach (20 points)
+- Phase-wise rollout plan: 8 points
+- Change management and training strategy: 7 points
+- Risk mitigation and contingency planning: 5 points
+
+6.4 Experience & Track Record (15 points)
+- Government ERP implementations in India: 8 points
+- Scale of past deployments (user base): 4 points
+- Client references from state/central government: 3 points
+
+6.5 Support & O&M (5 points)
+- SLA framework: 3 points
+- Helpdesk and support model: 2 points
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 10 years experience in ERP implementation
+- At least 2 government ERP projects with 50,000+ users each
+- Annual turnover of at least INR 500 Crores from IT services
+- CMMI Level 5 certified
+- ISO 27001 and ISO 20000 certified
+- Empaneled with MeitY or any state government IT department
+- Consortium permitted (max 2 members, lead must hold 60%+)
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with solution architecture and deployment plan
+- Financial Proposal with detailed cost breakdown (phase-wise)
+- Proof of government ERP implementations (completion certificates)
+- Prototype/demo of proposed ERP system
+- Team structure with CVs of key personnel (minimum 50 resources)
+- EMD of INR 10 Crores (Bank Guarantee)
+- Compliance certificate for government procurement guidelines
+
+9. CONTACT INFORMATION
+Director, e-Governance Cell
+Department of Information Technology
+Mantralaya, Madam Cama Road
+Mumbai - 400032, Maharashtra, India
+Email: erp-procurement@maharashtra.gov.in

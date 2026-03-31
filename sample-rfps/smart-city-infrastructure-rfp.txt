@@ -1,0 +1,102 @@
+REQUEST FOR PROPOSAL (RFP)
+Smart City Integrated Command & Control Center with IoT Infrastructure
+
+Issued By: Jaipur Smart City Limited (JSCL)
+RFP Reference: JSCL/ICCC/2026/015
+Issue Date: February 28, 2026
+Submission Deadline: May 10, 2026
+
+1. INTRODUCTION
+Jaipur Smart City Limited, a Special Purpose Vehicle under the Smart Cities Mission of the Government of India, invites proposals from qualified System Integrators for the design, development, implementation, and operation of an Integrated Command & Control Center (ICCC) with city-wide IoT sensor deployment for the Pink City, Jaipur.
+
+2. PROJECT SCOPE
+The selected vendor will be responsible for:
+- Design and construction of a state-of-the-art ICCC facility (10,000 sq ft)
+- Video wall and situation room setup (50+ display panels)
+- City-wide IoT sensor deployment:
+  * 2,500 smart streetlights with environmental sensors
+  * 500 traffic monitoring cameras with AI-based analytics
+  * 200 air quality monitoring stations
+  * 150 smart parking sensors across key commercial areas
+  * 100 water quality sensors on main pipelines
+  * 50 flood detection sensors in low-lying areas
+- Centralized data platform with real-time analytics
+- Citizen engagement mobile application
+- Emergency response management system
+- Integration with existing traffic management, water supply, and solid waste systems
+- 5-year Operations & Maintenance (O&M)
+
+3. CITY STATISTICS
+- City Population: 4.2 million (2025 census)
+- Area: 485 sq km
+- Tourist Footfall: 15 million annually
+- Major Heritage Sites: 12 (UNESCO World Heritage - Jaipur City)
+- Daily Vehicles on Road: 2.8 million
+- Existing Smart Infrastructure: Partial CCTV network (800 cameras), GPS-tracked municipal fleet
+
+4. CONTRACT DETAILS
+- Contract Duration: 2 years implementation + 5 years O&M
+- Estimated Project Value: INR 450 Crores ($54 million USD)
+- Funding Source: Smart Cities Mission (60%) + State Government (25%) + Municipal (15%)
+- Location: Jaipur, Rajasthan, India
+- Commencement Date: July 15, 2026
+
+5. COMMERCIAL MODEL
+Bidders must submit a commercial proposal structured as:
+a) Capital Expenditure (CapEx): One-time implementation cost including hardware, software, and civil works
+b) Operational Expenditure (OpEx): Annual O&M cost for 5 years
+c) Revenue Generation: Proposed model for generating revenue through smart advertising, data analytics services, and parking management
+d) Performance-linked Deductions: Penalty framework for SLA breaches
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Technical Solution (35 points)
+- ICCC architecture and technology stack: 10 points
+- IoT platform scalability and interoperability: 10 points
+- AI/ML analytics capabilities: 8 points
+- Cybersecurity framework: 7 points
+
+6.2 Financial Proposal (30 points)
+- Total project cost (CapEx + OpEx): 15 points
+- Revenue generation potential: 10 points
+- Value engineering proposals: 5 points
+
+6.3 Experience & Credentials (20 points)
+- Smart city/ICCC project experience: 10 points
+- Team qualifications and key personnel: 5 points
+- References from government clients: 5 points
+
+6.4 Implementation Approach (10 points)
+- Project plan and timeline: 5 points
+- Risk management and mitigation: 3 points
+- Local workforce development plan: 2 points
+
+6.5 Innovation & Sustainability (5 points)
+- Green technology adoption: 3 points
+- Heritage conservation integration: 2 points
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 3 Smart City/ICCC projects completed in India
+- Annual turnover of at least INR 200 Crores in each of the last 3 financial years
+- Consortium/JV permitted (maximum 3 members, lead must hold 51%+)
+- CMMI Level 3 or above
+- No blacklisting by any Central/State Government entity
+- Net worth of at least INR 100 Crores
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with detailed solution architecture
+- Financial Proposal with CapEx/OpEx breakdown
+- Consortium agreement (if applicable)
+- Past performance certificates from at least 3 smart city projects
+- Audited financial statements for last 5 years
+- Manpower deployment plan with CVs of key personnel
+- EMD of INR 5 Crores (Bank Guarantee)
+
+9. CONTACT INFORMATION
+Chief Executive Officer
+Jaipur Smart City Limited
+Jaipur Municipal Corporation, MI Road
+Jaipur - 302001, Rajasthan, India
+Email: ceo@jaipursmartcity.in

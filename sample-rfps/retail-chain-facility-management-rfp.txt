@@ -1,0 +1,116 @@
+REQUEST FOR PROPOSAL (RFP)
+Integrated Facility Management Services for Retail Chain
+
+Issued By: Reliance Retail Limited
+RFP Reference: RRL/FM/2026/089
+Issue Date: March 18, 2026
+Submission Deadline: May 25, 2026
+
+1. INTRODUCTION
+Reliance Retail Limited invites proposals from experienced facility management companies for comprehensive Integrated Facility Management (IFM) services across 500 retail stores in Western and Southern India, including Reliance Fresh, Reliance Digital, and Reliance Trends formats.
+
+2. PROJECT SCOPE
+The selected facility management partner will provide:
+- Hard Services:
+  * HVAC maintenance and energy optimization across all 500 stores
+  * Electrical systems maintenance (LT panels, UPS, DG sets, lighting)
+  * Plumbing and water management
+  * Fire safety systems maintenance and AMC
+  * Civil and structural maintenance
+  * Signage and branding element maintenance
+- Soft Services:
+  * Housekeeping and deep cleaning (daily + periodic)
+  * Pest control management
+  * Waste management and recycling
+  * Landscaping and exterior maintenance
+  * Washroom hygiene management
+- Technology-Enabled Services:
+  * IoT-based predictive maintenance for HVAC and refrigeration
+  * Energy management system with real-time dashboards
+  * CAFM (Computer-Aided Facility Management) software deployment
+  * Automated work order management and SLA tracking
+  * QR-code based inspection and audit system
+- Sustainability:
+  * Energy audit and optimization (target: 15% reduction)
+  * Water conservation measures
+  * Green cleaning products mandate
+  * Carbon footprint tracking and reporting
+
+3. RETAIL PORTFOLIO DETAILS
+- Total Stores: 500 (200 Reliance Fresh, 150 Reliance Digital, 150 Reliance Trends)
+- Total Managed Area: 5 million sq ft
+- Geographic Spread: Maharashtra, Gujarat, Karnataka, Tamil Nadu, Kerala, Andhra Pradesh
+- Store Size Range: 2,000 sq ft (Fresh) to 25,000 sq ft (Digital flagship)
+- Operating Hours: 10 AM - 10 PM (365 days)
+- Annual Energy Spend: INR 180 Crores ($21.6 million USD)
+- Annual FM Spend (current): INR 120 Crores ($14.4 million USD)
+
+4. CONTRACT DETAILS
+- Contract Duration: 5 years with 2-year extension option
+- Estimated Annual Contract Value: INR 100-120 Crores ($12-14.4 million USD)
+- Payment Model: Monthly fixed fee + performance-linked incentives/deductions
+- Location: Pan-Western & Southern India
+- Commencement Date: September 1, 2026
+
+5. COMMERCIAL MODEL
+Bidders must submit:
+a) Per Sq Ft Rate: Monthly management fee per square foot (differentiated by store format)
+b) Energy Savings Guarantee: Committed energy reduction with shared savings model
+c) Performance Bonus: Proposed SLA metrics that trigger bonus payments
+d) Mobilization Cost: One-time setup cost for technology deployment and team onboarding
+e) Volume Discount: Pricing tiers for portfolio expansion (500 → 750 → 1000 stores)
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Commercial Proposal (30 points)
+- Per sq ft rate competitiveness: 12 points
+- Energy savings guarantee: 8 points
+- Volume discount structure: 5 points
+- Total cost of ownership (5-year): 5 points
+
+6.2 Technical Capability (25 points)
+- CAFM platform and IoT capabilities: 10 points
+- Energy management approach: 8 points
+- Sustainability plan: 7 points
+
+6.3 Experience & Scale (20 points)
+- Retail facility management experience: 10 points
+- Geographic coverage and scalability: 5 points
+- Client references (retail/commercial): 5 points
+
+6.4 Operational Plan (15 points)
+- Transition and mobilization plan: 5 points
+- Staffing model and training: 5 points
+- Supply chain for spares and consumables: 5 points
+
+6.5 Innovation & Value-Add (10 points)
+- Predictive maintenance capabilities: 4 points
+- Customer experience enhancement ideas: 3 points
+- ESG reporting capabilities: 3 points
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 7 years experience in integrated facility management
+- Currently managing at least 3 million sq ft of retail/commercial space
+- Annual turnover of at least INR 200 Crores from FM services
+- Presence in at least 4 of the 6 target states
+- ISO 9001, ISO 14001, and ISO 45001 certified
+- CAFM/IWMS platform with mobile capability
+- References from at least 3 retail/hospitality chains
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with operations plan and technology architecture
+- Financial Proposal with detailed rate card
+- CAFM platform demo (live or recorded)
+- Case studies from retail FM engagements
+- Staffing model with transition plan
+- Environmental management plan
+- EMD of INR 3 Crores (Bank Guarantee)
+
+9. CONTACT INFORMATION
+VP - Procurement & Facilities
+Reliance Retail Limited
+Reliance Corporate Park, Thane-Belapur Road
+Ghansoli, Navi Mumbai - 400701, Maharashtra, India
+Email: fm.procurement@relianceretail.com

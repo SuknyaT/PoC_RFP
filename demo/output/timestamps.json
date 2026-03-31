@@ -1,0 +1,70 @@
+[
+  {
+    "step_id": "intro",
+    "start_time": 3.337860107421875e-06
+  },
+  {
+    "step_id": "login",
+    "start_time": 18.534162759780884
+  },
+  {
+    "step_id": "dashboard",
+    "start_time": 26.217302322387695
+  },
+  {
+    "step_id": "rfp_list",
+    "start_time": 40.61858773231506
+  },
+  {
+    "step_id": "rfp_detail_top",
+    "start_time": 57.580755949020386
+  },
+  {
+    "step_id": "rfp_scoring_criteria",
+    "start_time": 78.08713889122009
+  },
+  {
+    "step_id": "generate_proposal_explain",
+    "start_time": 92.15189456939697
+  },
+  {
+    "step_id": "proposal_overview",
+    "start_time": 126.43440771102905
+  },
+  {
+    "step_id": "proposal_sections_checklist",
+    "start_time": 146.02039790153503
+  },
+  {
+    "step_id": "proposal_sections_edit",
+    "start_time": 155.86468625068665
+  },
+  {
+    "step_id": "proposal_sections_scroll",
+    "start_time": 175.8508849143982
+  },
+  {
+    "step_id": "proposal_financials",
+    "start_time": 192.3317403793335
+  },
+  {
+    "step_id": "proposal_scoring",
+    "start_time": 207.98524165153503
+  },
+  {
+    "step_id": "download_pdf",
+    "start_time": 222.36191630363464
+  },
+  {
+    "step_id": "competitors_page",
+    "start_time": 241.38510632514954
+  },
+  {
+    "step_id": "historical_page",
+    "start_time": 254.16759777069092
+  },
+  {
+    "step_id": "conclusion",
+    "start_time": 265.1600182056427
+  }
+]

@@ -1,0 +1,116 @@
+REQUEST FOR PROPOSAL (RFP)
+750 MW Solar Park - EPC & Operations Management
+
+Issued By: Gujarat Urja Vikas Nigam Limited (GUVNL)
+RFP Reference: GUVNL/SOLAR/2026/021
+Issue Date: March 1, 2026
+Submission Deadline: May 15, 2026
+
+1. INTRODUCTION
+Gujarat Urja Vikas Nigam Limited invites proposals from experienced EPC contractors and renewable energy developers for the Engineering, Procurement, and Construction (EPC) of a 750 MW solar photovoltaic park in the Kutch district of Gujarat, along with 25 years of Operations & Maintenance (O&M).
+
+2. PROJECT SCOPE
+The selected contractor will be responsible for:
+- Site Preparation:
+  * Land leveling and grading across 3,500 acres
+  * Boundary fencing and access road construction (25 km)
+  * Storm water drainage system
+- Solar Installation:
+  * 1.5 million solar PV modules (bifacial, monocrystalline)
+  * Single-axis solar tracker system
+  * 150 central inverter stations (5 MW each)
+  * DC/AC cabling and module mounting structures
+- Electrical Infrastructure:
+  * 5 x 220 kV pooling substations
+  * 1 x 765 kV interconnection substation
+  * 50 km HT transmission line to CTU grid
+  * SCADA and remote monitoring system
+- Battery Energy Storage System (BESS):
+  * 200 MWh lithium-ion battery storage
+  * Grid-scale battery management system
+- Operations & Maintenance (25 years):
+  * Module cleaning (robotic preferred)
+  * Inverter and tracker maintenance
+  * Vegetation management
+  * Performance monitoring and optimization
+
+3. PROJECT SITE DETAILS
+- Location: Khavda, Kutch District, Gujarat
+- Total Land Area: 3,500 acres (allocated by Gujarat government)
+- Solar Irradiance: 5.8 kWh/m²/day (annual average)
+- Temperature Range: 8°C to 48°C
+- Nearest Grid Connection: 765 kV Bhuj substation (50 km)
+- Water Source: Desalination plant (to be set up by GUVNL)
+- Road Access: NH-341 (15 km from site)
+
+4. CONTRACT DETAILS
+- Contract Duration: 2 years EPC + 25 years O&M
+- Estimated Project Value: INR 4,500 Crores ($540 million USD)
+- Funding: Green Bonds (40%), DFI Loans (35%), Equity (25%)
+- Power Purchase Agreement: 25 years with GUVNL at tariff discovered through bidding
+- Commencement Date: August 1, 2026
+- Commercial Operation Date (COD): July 31, 2028
+
+5. COMMERCIAL MODEL
+Bidders must submit:
+a) EPC Cost: Lump sum turnkey price per MW installed
+b) O&M Cost: Annual per MW charge for 25 years (with escalation formula)
+c) Performance Guarantee: Minimum CUF commitment (≥23%)
+d) Tariff Bid: Levelized cost of energy (LCOE) for PPA pricing
+e) Liquidated Damages: For delays in COD and underperformance
+
+6. SCORING CRITERIA AND EVALUATION
+
+6.1 Financial Bid (40 points)
+- EPC cost per MW: 15 points
+- O&M cost (25-year NPV): 10 points
+- Tariff bid (LCOE): 10 points
+- Performance guarantee terms: 5 points
+
+6.2 Technical Capability (25 points)
+- Solar technology and module selection: 8 points
+- BESS design and integration: 7 points
+- Electrical infrastructure plan: 5 points
+- O&M strategy and automation: 5 points
+
+6.3 Experience & Track Record (20 points)
+- MW capacity commissioned: 10 points
+- Projects in similar terrain/climate: 5 points
+- O&M track record and CUF achievements: 5 points
+
+6.4 Project Execution Plan (10 points)
+- Construction timeline and methodology: 5 points
+- Supply chain and procurement plan: 3 points
+- Risk mitigation (weather, supply chain): 2 points
+
+6.5 Sustainability & Local Impact (5 points)
+- Local manufacturing content: 2 points
+- Workforce development plan: 2 points
+- Environmental management: 1 point
+
+Total: 100 points
+
+7. ELIGIBILITY CRITERIA
+- Minimum 500 MW of solar projects commissioned in India
+- At least 1 project of 200+ MW capacity completed
+- Annual turnover of at least INR 1,000 Crores from renewable energy EPC
+- Net worth of at least INR 500 Crores
+- No adverse performance record with SECI, NTPC, or state DISCOMs
+- Must have in-house O&M capability or tie-up with rated O&M provider
+- BIS certification for proposed solar modules
+
+8. SUBMISSION REQUIREMENTS
+- Technical Proposal with detailed engineering drawings
+- Financial Proposal with cost breakdown and tariff bid
+- Module and inverter datasheets and certifications
+- Project execution schedule (PERT/CPM)
+- Environmental clearance status
+- EMD of INR 25 Crores (Bank Guarantee)
+- Past performance certificates from at least 5 solar projects
+
+9. CONTACT INFORMATION
+Chief Engineer (Renewable Energy)
+Gujarat Urja Vikas Nigam Limited
+Sardar Patel Vidyut Bhavan, Race Course
+Vadodara - 390007, Gujarat, India
+Email: solar.procurement@guvnl.com
